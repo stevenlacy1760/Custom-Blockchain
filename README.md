@@ -35,7 +35,7 @@ Select *"No"* when asked to prefund with wei. Specify chain/network  ID or hit e
 
 ### Setting up my crypto wallet
 
-**Step 1**: open up mycrypto wallet and click change network, then select custom network. In the dropdown scroll to custom. Type ETH in the Currency box. In the Chain ID box, type the chain id you generated during genesis creation. In the URL box type: http://127.0.0.1:8545.  This points to the default RPC port on your local machine, click Save & Use Custom Node.<img width="400" alt="custom-node" src="https://user-images.githubusercontent.com/86683976/146999640-6b1e4ec5-e27f-43ea-8af1-7fecf421d3f5.png">
+**Step 1**: open up mycrypto wallet and click change network, then select custom network. In the dropdown scroll to custom. Type ETH in the Currency box. In the Chain ID box, type the chain id you generated during genesis creation. In the URL box type: http://127.0.0.1:8545.  This points to the default RPC port on your local machine, click Save & Use Custom Node. **Note**: be sure to use same network name and chain id number as earlier setup <img width="400" alt="custom-node" src="https://user-images.githubusercontent.com/86683976/146999640-6b1e4ec5-e27f-43ea-8af1-7fecf421d3f5.png">
 
 **Step 2**: Select the View & Send option from the left menu pane, then click Keystore file. On the next screen, click Select Wallet File, then navigate to the keystore directory inside your Node1 directory, select the file located there, provide your password when prompted and then click Unlock. It should then open your wallet.
 
